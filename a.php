@@ -2,10 +2,7 @@
 
 
 echo "test testulet";
-//d
-
-//inca ce
-
+//ultima faza
 
 echo "testulet testisor"; 
 ?>
